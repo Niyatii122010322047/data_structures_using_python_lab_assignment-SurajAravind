@@ -1,6 +1,4 @@
-""" Python Script to check whether a given number is perfect  """
-
-# Write your code from here
+""" Python Script to check whether a given number is perfect  "
 
 
 ##In number theory, a perfect number is a positive integer that is equal to the
